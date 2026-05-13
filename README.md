@@ -5,7 +5,6 @@
   Hi! I'm <b>Victor Davila Bejarano</b>.<br><br>
   📍 I'm from Mexico.<br><br>
   🎓 <b>Computer Systems Engineering</b> student at Tecnológico de Culiacán.<br><br>
-  💻 Currently a <b>Software Engineer Intern</b> at Arsova.<br><br>
   🚀 Passionate about web and mobile app development, especially with React, React Native, and Spring Boot.<br><br>
   📚 Always learning and exploring new technologies.
 </h3>
